@@ -1,0 +1,77 @@
+.title{
+    position: absolute;
+    font-size: 250%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+    padding-top: 20%;
+    padding-left: 17%;
+    color: white;
+}
+
+h1 span{
+    background: rgba(0,0,0,0.5);
+}
+
+.buttonimg{
+    position: relative;
+    width: 100%;
+    height: 50%;
+}
+
+.buttonimg .btnd{
+    position: absolute;
+    top: 30%;
+    left: 75%;
+}
+
+.btn{
+    position: relative;
+    padding: 20px;
+}
+
+.btn1{
+    padding: 10px;
+    background-color: #A981D1;
+}
+
+.customertable{
+    background: #581845;
+}
+
+.details{
+    position: relative;
+    padding-top: 40px;
+}
+.details .fas{
+    float: left;
+    padding-left: 10%;
+    padding-top: 3%;
+}
+
+.details .user{
+    float: none;
+    padding-left:45%;
+}
+
+.tr .transferblock{
+    background-color: #581845;
+    padding-right: 150px ;
+    padding-left: 150px;
+}
+
+.text{
+    font-size: x-large;
+}
+
+.after{
+    padding-right: 50px ;
+    padding-left: 50px;
+}
+
+.abt{
+    font-size: x-large;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20%;
+    margin-top: 5%;
+}
