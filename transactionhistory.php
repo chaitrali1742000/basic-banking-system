@@ -58,7 +58,7 @@
                 $password = 'Teja@1234';
                 $database = 'CUSTOMER_INFO';
 
-                $hostname = 'localhost:3307';    
+                $hostname = 'localhost';    
                 $mysqli = new mysqli($hostname, $user, $password, $database);
 
                 if($mysqli->connect_error){
